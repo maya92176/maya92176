@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=maya92176" />
 </div>
 
+![](https://raw.githubusercontent.com/maya92176/maya92176/output/github-contribution-grid-snake.svg)
+
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
